@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap");
+
+.App {
+  /* font-family: sans-serif; */
+  text-align: center;
+}
+
+input {
+  padding: 1rem 1rem;
+  width: 70%;
+  font-size: 1.5rem;
+}
+
+body {
+  background-color: floralwhite;
+}
+
+h1 {
+  font-family: "Barlow", sans-serif;
+}
+
+h2 {
+  font-family: "Barlow", sans-serif;
+}
+
+h3 {
+  font-family: "Barlow", sans-serif;
+}
